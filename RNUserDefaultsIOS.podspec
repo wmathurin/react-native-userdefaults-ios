@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name           = 'react-native-userdefaults-ios'
+  s.name           = 'RNUserDefaultsIOS'
   s.version        = '0.1.3'
   s.summary        = 'React Native Module for NSUserDefaults'
   s.description    = 'React Native Module for NSUserDefaults'
