@@ -17,7 +17,8 @@
     "RNUserDefaultsIOS/UserDefaultsManager.h",
     "RNUserDefaultsIOS/UserDefaultsManager.m",
     "RNUserDefaultsIOS.js",
-    "README.md"
+    "README.md",
+    "RNUserDefaultsIOS.podspec"
   ],
   "keywords": [
     "react-component",
