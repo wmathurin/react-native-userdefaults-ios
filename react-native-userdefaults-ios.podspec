@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license        = 'MIT'
   s.author         = 'Dave Sibiski <dsibiski@gmail.com> (https://github.com/dsibiski)'
   s.homepage       = 'https://github.com/lwansbrough/react-native-camera'
-  s.source         = { :git => 'https://github.com/dsibiski/react-native-userdefaults-ios, :tag => s.version }
+  s.source         = { :git => 'https://github.com/dsibiski/react-native-userdefaults-ios', :tag => s.version }
 
   s.requires_arc   = true
   s.platform       = :ios, '8.0'
